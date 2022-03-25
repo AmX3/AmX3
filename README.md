@@ -1,4 +1,10 @@
-### Hi there 👋
+#  Hi there, I'm Amelia! 👋
+
+### Aspiring Junior Developer  :computer:
+
+Based in Sydney, I am currently a full-time student in the _nology Tech Consultancy program, where I am learning new concepts in selected programming languages, frameworks and tools. 🌱
+
+ If you have any questions about my projects, please contact me at ameliadeng37@gmail.com.  :speech_balloon:
 
 <!--
 **AmX3/AmX3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
